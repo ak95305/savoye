@@ -1022,6 +1022,8 @@ footer .logo {
     }
     .dropdown:hover .dropdown-menu{
         visibility: hidden;
+        opacity: 0;
+    
     }
     .dropdown-menu{
         visibility: hidden;
